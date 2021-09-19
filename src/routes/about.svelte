@@ -2,6 +2,9 @@
 	<title>About</title>
 </svelte:head>
 
-<h1>About this site</h1>
+<h4 class="center-align">About this site</h4>
 
-<p>This is the 'about' page. There's not much here.</p>
+<p>
+	Pork chops
+	Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure repellendus dolor doloremque ipsa quaerat eligendi nam dignissimos quis sint corrupti et ipsam accusamus laudantium tempore, eius asperiores rem sequi iusto voluptatem sit nostrum ab in praesentium. Dignissimos officiis atque qui ipsum temporibus facere et, quia amet veritatis, sequi incidunt deleniti.
+</p>

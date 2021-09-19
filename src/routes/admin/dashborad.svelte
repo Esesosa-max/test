@@ -20,7 +20,6 @@
     M.AutoInit();
   });
   async function handleDelete(id) {
-    console.log(colleId, id);
     await deleteDoc(doc(getFirestore(app), `docs/${colleId}/blogs/${id}`));
   }
   async function getInitData() {

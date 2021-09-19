@@ -12,7 +12,7 @@
       } else {
         setTimeout(() => {
           goto("/");
-        }, 2000);
+        }, 1700);
       }
     });
   });
@@ -24,6 +24,6 @@
     <NavComponent />
     <slot />
   {:else}
-    <h1>You Have No Acess To This Route</h1>
+    <h4>Page Not Found 404</h4>
   {/if}
 </main>
